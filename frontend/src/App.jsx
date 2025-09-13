@@ -5,23 +5,7 @@ import {
   MapPinIcon, 
   SparklesIcon,
   SunIcon,
-  MoonIcon,
-  ChartBarIcon,
-  ClockIcon,
-  GlobeAltIcon,
-  CpuChipIcon,
-  LightBulbIcon,
-  BoltIcon,
-  EyeIcon,
-  ArrowTrendingUpIcon,
-  ArrowTrendingDownIcon,
-  HeartIcon,
-  RocketLaunchIcon,
-  ShieldCheckIcon,
-  CommandLineIcon,
-  UsersIcon,
-  MagnifyingGlassIcon,
-  CheckCircleIcon
+  MoonIcon
 } from '@heroicons/react/24/outline';
 
 function App() {
