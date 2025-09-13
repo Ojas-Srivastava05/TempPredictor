@@ -9,7 +9,7 @@ It predicts tomorrow’s temperature using **Linear Regression with Gradient Des
 
 ```bash
 # Clone the project
-git clone <your-repo-url>
+git clone https://github.com/Ojas-Srivastava05/TempPredictor.git
 cd TempPredictor
 
 # Setup backend
